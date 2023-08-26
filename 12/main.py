@@ -6,8 +6,8 @@
 
 import random
 
-x = random.randint(0,11)
-y = random.randint(0,11)
+x = random.randint(0,1001)
+y = random.randint(0,1001)
 
 print('Угадай два числа')
 print('Их сумма равна ' + str(x + y))
